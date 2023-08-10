@@ -6,7 +6,7 @@
 
 ## 🍱 Introduction
 
-L'Académie Tôtsuki est une plateforme dédiée à l'univers culinaire de l'Académie Tôtsuki, inspirée de la célèbre série "Food Wars" (Shokugeki no Soma). Sur ce site, les utilisateurs peuvent découvrir l'académie, ses professeurs, élèves et bien sûr, les incroyables recettes qui sont partagées.
+Tôtsuki est un site dédiée à l'univers culinaire, inspirée de la célèbre série **Food Wars** (Shokugeki no Soma). Sur ce site, les utilisateurs peuvent découvrir l'académie, ses professeurs, élèves et bien sûr, les incroyables recettes qui sont partagées.
 
 ## 🚀 Caractéristiques
 
@@ -19,25 +19,22 @@ L'Académie Tôtsuki est une plateforme dédiée à l'univers culinaire de l'Aca
 
 ## 🛠 Technologies utilisées
 
-- **Front-end**: HTML, Tailwind CSS
-- **Back-end**: [Technologies spécifiques que vous avez utilisées, par exemple, Django, Flask, Node.js...]
-- **Base de données**: [Si vous utilisez une base de données, indiquez le type ici, par exemple, MySQL, MongoDB...]
+- **Front-end**: HTML, Tailwind CSS.
+- **Back-end**: PHP, Symfony.
+- **Base de données**: MysSQL.
 
 ## 💼 Installation et configuration
 
 1. **Clonez le projet**
    ```bash
-   git clone [lien_du_dépôt]
-   cd chemin_du_projet
+   git clone [[lien_du_dépôt]](https://github.com/teikaro/Totsuki)
+   cd Totsuki
 
     Installez les dépendances
-    [Instructions pour installer des dépendances, si nécessaire.]
-
-    Configurez le projet
-    [Instructions pour configurer le projet, si nécessaire.]
+    composer install et ensuite composer update
 
     Exécutez le projet
-    [Instructions pour exécuter le projet.]
+    une fois dans le dossier Totsuki, faire la commande : **symfony:serve**
 
 ## 📝 Licence
 

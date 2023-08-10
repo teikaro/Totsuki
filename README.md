@@ -39,9 +39,10 @@ L'Académie Tôtsuki est une plateforme dédiée à l'univers culinaire de l'Aca
     Exécutez le projet
     [Instructions pour exécuter le projet.]
 
-📝 Licence
+## 📝 Licence
 
-Ce projet est sous licence MIT.
-🤝 Contributions
+- **Ce projet est sous licence MIT.**
+
+## 🤝 Contributions
 
 Les contributions, problèmes et demandes de fonctionnalités sont les bienvenues!

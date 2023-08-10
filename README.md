@@ -27,14 +27,16 @@ Tôtsuki est un site dédiée à l'univers culinaire, inspirée de la célèbre 
 
 1. **Clonez le projet**
    ```bash
-   git clone [[lien_du_dépôt]](https://github.com/teikaro/Totsuki)
+   git clone https://github.com/teikaro/Totsuki
    cd Totsuki
 
-    Installez les dépendances
+2. **Installez les dépendances**
+ ```bash
     composer install et ensuite composer update
 
-    Exécutez le projet
-    une fois dans le dossier Totsuki, faire la commande : **symfony:serve**
+3. **Exécutez le projet**
+ ```bash
+    une fois dans le dossier Totsuki, faire la commande : symfony:serve
 
 ## 📝 Licence
 

@@ -45,4 +45,4 @@ L'Académie Tôtsuki est une plateforme dédiée à l'univers culinaire de l'Aca
 
 ## 🤝 Contributions
 
-Les contributions, problèmes et demandes de fonctionnalités sont les bienvenues!
+Les contributions, corrections linguistiques, problèmes et demandes de fonctionnalités sont les bienvenues!

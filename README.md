@@ -25,7 +25,6 @@ L'Académie Tôtsuki est une plateforme dédiée à l'univers culinaire de l'Aca
 
 ## 💼 Installation et configuration
 
-
 1. **Clonez le projet**
    ```bash
    git clone [lien_du_dépôt]
